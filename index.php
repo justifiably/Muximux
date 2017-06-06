@@ -56,7 +56,7 @@ defined("CONFIG") ? null : define('CONFIG', 'settings.ini.php');
         </div>
     </div>
     <div class="loader-header">
-        <h4>Muximux is loading...</h4>
+        <h4>Dashboard is loading...</h4>
     </div>
     <div class="loader-body">
         <div class="loader">
